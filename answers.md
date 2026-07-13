@@ -1,5 +1,5 @@
 # OOP Project Questions & Answers 
-#Name: Omar Abdullah Al Qahtani
+# Name: Omar Abdullah Al Qahtani
 
 ## 1. What is the difference between a class and an object?
 **Answer:** A class is a blueprint. An object is an instance created from that class.
@@ -8,7 +8,7 @@
 **Answer:** To make sure every model implements the `generate_response()` method.
 
 ## 3. What is the purpose of `super()`?
-**Answer:** To call the parent class constructor or methods.
+**Answer:** To use the parent class constructor or methods.
 
 ## 4. What is the difference between inheritance and composition?
 **Answer:** Inheritance means **is-a** relationship. Composition means **has-a** relationship.
