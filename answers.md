@@ -1,4 +1,4 @@
-# OOP Project Questions & Answers
+# OOP Project Questions & Answers Name: Omar Abdullah Al Qahtani
 
 ## 1. What is the difference between a class and an object?
 **Answer:** A class is a blueprint. An object is an instance created from that class.
